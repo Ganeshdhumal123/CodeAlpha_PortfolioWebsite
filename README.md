@@ -26,5 +26,4 @@ This site showcases my skills, projects, resume, and contact information — des
 
 ---
 
-## 📁 Project Structure
 
